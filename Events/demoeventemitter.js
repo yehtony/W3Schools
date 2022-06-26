@@ -11,3 +11,5 @@ eventEmitter.on('scream', myEventHandler);
 
 //fire the 'scream' event
 eventEmitter.emit('scream');
+
+//git author test
